@@ -51,7 +51,8 @@ footer a {
     border-radius: 10px;
 }
 .main_img{
-    width: 100%;
+    align-items:center;
+    width: 50%;
     height: 30%;
 }
 
